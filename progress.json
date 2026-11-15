@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:58:41.776Z",
+  "generated_at": "2026-11-16T16:14:49.742Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -39,6 +39,93 @@
       "last_pushed_at": "2026-11-14T08:17:09.761Z",
       "language": "python",
       "lines": 13
+    },
+    "problem:371": {
+      "kind": "problem",
+      "id": "371",
+      "title": "Calculate Number of Parameters in Neural Network",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/371",
+      "path": "problems/0371-calculate-number-of-parameters-in-neural-network",
+      "first_solved_at": "2026-11-15T06:36:40.033Z",
+      "last_pushed_at": "2026-11-15T06:36:40.033Z",
+      "language": "python",
+      "lines": 22
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-11-15T06:42:05.405Z",
+      "last_pushed_at": "2026-11-15T06:42:05.405Z"
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-15T06:48:43.706Z",
+      "last_pushed_at": "2026-11-15T06:48:43.706Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1994": {
+      "kind": "problem",
+      "id": "1994",
+      "title": "Run the Digit Network Forward",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1994",
+      "path": "problems/1994-run-the-digit-network-forward",
+      "first_solved_at": "2026-11-15T06:52:36.746Z",
+      "last_pushed_at": "2026-11-15T06:52:36.746Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-11-15T07:23:42.631Z",
+      "last_pushed_at": "2026-11-15T07:23:42.631Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:127": {
+      "kind": "problem",
+      "id": "127",
+      "title": "Find Captain Redbeard's Hidden Treasure",
+      "difficulty": "medium",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/127",
+      "path": "problems/0127-find-captain-redbeard-s-hidden-treasure",
+      "first_solved_at": "2026-11-15T07:38:40.363Z",
+      "last_pushed_at": "2026-11-15T07:38:40.363Z",
+      "language": "python",
+      "lines": 18
+    },
+    "math:1": {
+      "kind": "math",
+      "id": "1",
+      "title": "Derivatives and Gradients",
+      "difficulty": "easy",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/1",
+      "path": "math/0001-derivatives-and-gradients",
+      "first_solved_at": "2026-11-15T07:44:24.940Z",
+      "last_pushed_at": "2026-11-15T07:44:24.940Z"
     }
   }
 }
