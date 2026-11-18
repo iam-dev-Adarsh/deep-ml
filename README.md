@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 10 problems · 0 labs · 7 math
+**18** solved · 11 problems · 0 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Calculate 2x2 Matrix Inverse](https://www.deep-ml.com/problems/8) | easy | 2026-11-18 | [solution](problems/0008-calculate-2x2-matrix-inverse) |
 | [Calculate Number of Parameters in Neural Network](https://www.deep-ml.com/problems/371) | easy | 2026-11-15 | [solution](problems/0371-calculate-number-of-parameters-in-neural-network) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-16 | [solution](problems/0083-dot-product-calculator) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-15 | [solution](problems/0042-implement-relu-activation-function) |
