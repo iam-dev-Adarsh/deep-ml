@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T16:09:54.382Z",
+  "generated_at": "2026-11-18T16:11:22.572Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -220,6 +220,19 @@
       "last_pushed_at": "2026-11-18T16:09:52.978Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:1775": {
+      "kind": "problem",
+      "id": "1775",
+      "title": "Partitioned Inverse via Schur Complements",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1775",
+      "path": "problems/1775-partitioned-inverse-via-schur-complements",
+      "first_solved_at": "2026-11-18T16:11:21.278Z",
+      "last_pushed_at": "2026-11-18T16:11:21.278Z",
+      "language": "python",
+      "lines": 85
     }
   }
 }
