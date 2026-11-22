@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**24** solved · 14 problems · 0 labs · 10 math
+**25** solved · 15 problems · 0 labs · 10 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-11-16 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Find Captain Redbeard's Hidden Treasure](https://www.deep-ml.com/problems/127) | medium | 2026-11-15 | [solution](problems/0127-find-captain-redbeard-s-hidden-treasure) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-11-22 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [LU Decomposition of a Square Matrix](https://www.deep-ml.com/problems/333) | medium | 2026-11-22 | [solution](problems/0333-lu-decomposition-of-a-square-matrix) |
 | [Partitioned Inverse via Schur Complements](https://www.deep-ml.com/problems/1775) | medium | 2026-11-18 | [solution](problems/1775-partitioned-inverse-via-schur-complements) |
 | [Woodbury, Sherman-Morrison and the Determinant Lemma](https://www.deep-ml.com/problems/1774) | medium | 2026-11-22 | [solution](problems/1774-woodbury-sherman-morrison-and-the-determinant-lemma) |
 
