@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T15:54:50.048Z",
+  "generated_at": "2026-11-22T16:06:03.259Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -257,6 +257,17 @@
       "path": "math/0013-solving-linear-systems",
       "first_solved_at": "2026-11-22T15:54:49.407Z",
       "last_pushed_at": "2026-11-22T15:54:49.407Z"
+    },
+    "math:15": {
+      "kind": "math",
+      "id": "15",
+      "title": "Matrix Decompositions: LU and QR",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/15",
+      "path": "math/0015-matrix-decompositions-lu-and-qr",
+      "first_solved_at": "2026-11-22T16:06:02.405Z",
+      "last_pushed_at": "2026-11-22T16:06:02.405Z"
     }
   }
 }
