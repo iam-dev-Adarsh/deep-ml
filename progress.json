@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:32:54.102Z",
+  "generated_at": "2026-11-22T16:37:56.431Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -344,6 +344,19 @@
       "last_pushed_at": "2026-11-22T16:32:53.260Z",
       "language": "python",
       "lines": 34
+    },
+    "problem:1776": {
+      "kind": "problem",
+      "id": "1776",
+      "title": "Cholesky at Work: Triangular Solves, Log-Determinant and MVN Sampling",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1776",
+      "path": "problems/1776-cholesky-at-work-triangular-solves-log-determinant-and-mvn-sampling",
+      "first_solved_at": "2026-11-22T16:37:55.598Z",
+      "last_pushed_at": "2026-11-22T16:37:55.598Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
